@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mclyalin/frontend-project-lvl4.git"
+    "url": "git@github.com:hexlet-components/projects-frontend-l4-server.git"
   },
   "author": "Mikhail Lyalin",
   "license": "ISC",
@@ -35,11 +35,14 @@
     "http-errors": "^2.0.0",
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
+    "mini-css-extract-plugin": "^2.6.0",
     "pino-pretty": "^7.5.1",
     "point-of-view": "^5.1.0",
     "popper.js": "^1.16.1",
     "pug": "^3.0.2",
     "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.3.0",
     "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
@@ -61,7 +64,6 @@
     "eslint-plugin-react-hooks": "^4.3.0",
     "jest": "^27.5.1",
     "jest-cli": "^27.5.1",
-    "mini-css-extract-plugin": "^2.5.3",
     "node-sass": "^7.0.1",
     "nodemon": "^2.0.15",
     "npm-check-updates": "^12.4.0",
